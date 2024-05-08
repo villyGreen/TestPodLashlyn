@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'TestPodLashlyn/Classes/**/*'
+  s.source_files = 'TestPodLashlyn/Classes/'
   
   # s.resource_bundles = {
   #   'TestPodLashlyn' => ['TestPodLashlyn/Assets/*.png']
